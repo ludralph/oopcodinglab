@@ -1,4 +1,5 @@
 var app = require("../oop.js");
+Car = app.Car;
 describe("Car Class: Create a car, make it drive", function() {
 
     it("The car should be a type of `object`, and an instance of the `Car` class", function() {

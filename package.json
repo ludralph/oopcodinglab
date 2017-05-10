@@ -1,0 +1,19 @@
+{
+  "name": "ooplab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ludralph/oopcodinglab.git"
+  },
+  "author": "raphael etim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ludralph/oopcodinglab/issues"
+  },
+  "homepage": "https://github.com/ludralph/oopcodinglab#readme"
+}
